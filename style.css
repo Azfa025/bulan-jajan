@@ -69,7 +69,7 @@ header::after {
 
 /* Hero */
 .hero {
-  background: url("img/aremArem.png") no-repeat center center/cover;
+  background: url("img/aremArem.webp") no-repeat center center/cover;
   height: 60vh;
   display: flex;
   align-items: center;
